@@ -1,0 +1,4 @@
+Node: Ağacın her bir düğümü
+BinaryTree: Ağaç yapısı
+TreeNode: Her bir ağacı düğüm olarak tutar
+LinkedList: Ağaç düğümlerinin bağıl listesi
